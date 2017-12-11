@@ -1,0 +1,14 @@
+Assay Name: NuGEN v0.3
+Name Sub-text: Library Quant
+Calibration: YES
+Units: nM
+Excitation: RED
+Emission: FAR RED
+Std Signal Ratio Limit: 10
+Low: 0.1
+High: 40
+N: 0.97912908
+K: 4520.90856
+S: 10.7333333
+Green RFU Name: 
+Far Red RFU Name: 
