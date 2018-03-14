@@ -1,7 +1,13 @@
 ![](http://nugendata.com/images/nugen_logo_noedge.png)  
 [www.nugen.com](http://www.nugen.com)
 
+
+
 ## NuGEN NuQuant Assay for Qubit
+
+### Downloading the application
+
+Download the most recent release on the `Releases` page [here](https://github.com/nugentechnologies/NuQuant/releases).
 
 ### Installing NuGEN Assay on Qubit 2.0
 
