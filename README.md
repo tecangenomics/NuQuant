@@ -7,7 +7,7 @@
 
 ### Downloading the application
 
-Download the most recent release on the `Releases` page [here](https://github.com/nugentechnologies/NuQuant/releases).
+Download the most recent release on the `Releases` page by clicking the `.zip` file and unpacking the archive [here](https://github.com/nugentechnologies/NuQuant/releases). 
 
 ### Installing NuGEN Assay on Qubit 2.0
 
