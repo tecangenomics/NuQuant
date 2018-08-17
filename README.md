@@ -1,4 +1,4 @@
-# NuQuant Assay for Qubit
+# Celero DNA-Seq with NuQuant Assay for Qubit
 
 ![http://www.nugen.com](https://www.nugen.com/sites/default/files/logo_0.png)  
 [www.nugen.com](http://www.nugen.com)
