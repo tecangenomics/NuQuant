@@ -1,6 +1,6 @@
 [submodule "NuQuant_UniversalPlus"]
 	path = NuQuant_UniversalPlus
-	url = git@github.com:nugentechnologies/NuQuant_UniversalPlus.git
+	url = https://github.com/nugentechnologies/NuQuant_UniversalPlus.git
 [submodule "NuQuant_Celero"]
 	path = NuQuant_Celero
-	url = git@github.com:nugentechnologies/NuQuant_Celero.git
+	url = https://github.com/nugentechnologies/NuQuant_Celero.git
