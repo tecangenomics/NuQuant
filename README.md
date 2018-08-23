@@ -8,7 +8,7 @@ The NuQuant library quantification method accurately measures molar concentratio
 
 ### NuQuant for Celero
 
-Please follow instructions [here](https://nugentechnologies.github.io//NuQuant_Celero) to install the Qubit Software for _Celero_.
+Please follow instructions [here](https://nugentechnologies.github.io/NuQuant_Celero) to install the Qubit Software for _Celero_.
 
 ### NuQuant for Universal Plus
 
