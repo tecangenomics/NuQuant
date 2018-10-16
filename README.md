@@ -6,11 +6,13 @@ The NuQuant library quantification method accurately measures molar concentratio
 
 ## Downloading the application
 
-### NuQuant for Celero
+### Choose the apporpriate instrument file below for the NuQuant product you are using.
 
-Please follow instructions [here](https://nugentechnologies.github.io/NuQuant_Celero) to install the Qubit Software for _Celero_.
+Instructions follow below.
 
-### NuQuant for Universal Plus
 
-Please follow instructions [here](https://nugentechnologies.github.io/NuQuant_UniversalPlus) to install the Qubit Software for _Universal Plus_.
-
+| Kit            | Version  | Qubit 2                                                                                                      | Qubit 3 or 4                                                                                                     |
+|----------------|----------|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| Celero         | PCR      | [get](https://raw.githubusercontent.com/nugentechnologies/NuQuant_Celero/master/Qubit2CeleroPCRv1.qbt)       | [get](https://raw.githubusercontent.com/nugentechnologies/NuQuant_Celero/master/Qubit3and4CeleroPCRv1.qbt)       |
+| Celero         | PCR-Free | [get](404)                                                                                                   | [get](404)                                                                                                       |
+| Universal Plus | PCR      | [get](https://raw.githubusercontent.com/nugentechnologies/NuQuant_UniversalPlus/master/Qubit2UnivPlusv1.qbt) | [get](https://raw.githubusercontent.com/nugentechnologies/NuQuant_UniversalPlus/master/Qubit3and4UnivPlusv1.qbt) |
