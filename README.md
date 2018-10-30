@@ -6,16 +6,16 @@ The NuQuant library quantification method accurately measures molar concentratio
 
 ## Downloading the application
 
-### Choose the apporpriate instrument file below for the NuQuant product you are using.
+### Choose the appropriate instrument file below for the NuQuant product you are using.
 
 Instructions follow below.
 
 
 | Kit            | Version  | Qubit 2                                                                                                      | Qubit 3 or 4                                                                                                     |
 |----------------|----------|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| Celero         | PCR      | [get](https://raw.githubusercontent.com/nugentechnologies/NuQuant_Celero/master/Qubit2CeleroPCRv1.qbt)       | [get](https://raw.githubusercontent.com/nugentechnologies/NuQuant_Celero/master/Qubit3and4CeleroPCRv1.qbt)       |
-| Celero         | PCR-Free | [get](404)                                                                                                   | [get](404)                                                                                                       |
-| Universal Plus | PCR      | [get](https://raw.githubusercontent.com/nugentechnologies/NuQuant_UniversalPlus/master/Qubit2UnivPlusv1.qbt) | [get](https://raw.githubusercontent.com/nugentechnologies/NuQuant_UniversalPlus/master/Qubit3and4UnivPlusv1.qbt) |
+| Celero         | PCR      | [download](https://raw.githubusercontent.com/nugentechnologies/NuQuant_Celero/master/Qubit2CeleroPCRv1.qbt)       | [download](https://raw.githubusercontent.com/nugentechnologies/NuQuant_Celero/master/Qubit3and4CeleroPCRv1.qbt)       |
+| Celero         | PCR-Free | [download](404)                                                                                                   | [download](404)                                                                                                       |
+| Universal Plus | PCR      | [download](https://raw.githubusercontent.com/nugentechnologies/NuQuant_UniversalPlus/master/Qubit2UnivPlusv1.qbt) | [download](https://raw.githubusercontent.com/nugentechnologies/NuQuant_UniversalPlus/master/Qubit3and4UnivPlusv1.qbt) |
 
 
 ## Installing the application
