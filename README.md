@@ -8,7 +8,9 @@ The NuQuant library quantification method accurately measures molar concentratio
 
 ### Choose the appropriate instrument file below for the NuQuant product you are using.
 
-Instructions follow below.
+Installation instructions follow below.
+
+To download files to your local disk, right-click the `download` link and select "Save as".
 
 
 | Kit            | Version  | Qubit 2                                                                                                      | Qubit 3 or 4                                                                                                     |
