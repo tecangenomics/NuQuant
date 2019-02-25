@@ -1,8 +1,8 @@
 ![http://www.nugen.com](https://www.nugen.com/sites/default/files/logo_0.png)  
-[www.nugen.com](http://www.nugen.com) -CHange to Tecan branding
+[www.nugen.com](http://www.nugen.com) -Change to Tecan branding
 
 #  NuQuant Assay for Qubit
-The NuQuant library quantification method accurately measures molar concentrations of NGS libraries. NuQuant library quantification is a proprietary method by which a specific number of fluorescent labels are incorporated into the library molecules during library preparation. Consequently each library molecule has an equivalent number of labels incorporated, regardless of the size of the library fragment. The library molar concentration can be directly measured using fluorometers like Qubit® or standard plate readers.
+The NuQuant library quantification method accurately measures molar concentrations of NGS libraries. NuQuant library quantification is a proprietary method by which a specific number of fluorescent labels are incorporated into the library molecules during library preparation. Consequently each library molecule has an equivalent number of labels incorporated, regardless of the size of the library fragment. The molar concentration of sequenceable molecules can be directly measured using fluorometers like Qubit® or standard plate readers.
 
 ## Downloading the application
 
