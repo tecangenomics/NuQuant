@@ -1,5 +1,5 @@
-![http://www.nugen.com](https://www.nugen.com/sites/default/files/Tecan_Logo_for_Nugen_top_left.png)  
-[www.nugen.com](http://www.nugen.com)
+![http://www.tecangenomics.com](https://lifesciences.tecan.com/hubfs/page_images/logo.png)  
+[www.tecangenomics.com](http://www.tecangenomics.com)
 
 #  NuQuant Assay for Qubit
 The NuQuant library quantification method accurately measures molar concentrations of NGS libraries. NuQuant library quantification is a proprietary method whereby a specific number of fluorescent labels are incorporated into the library molecules during library preparation. Consequently, each library molecule has an equivalent number of labels incorporated, regardless of the size of the library fragment. The molar concentration of sequenceable molecules can be directly measured using fluorometers such as Qubit® or standard plate readers.
@@ -54,7 +54,7 @@ If you wish to remove NuQuant, including the `<KIT NAME>` button from your Qubit
   2.	Once you press the `Update` button, a message will appear titled “Updating: Select Assay(s) to Delete”. Select `<KIT NAME>`. The *<KIT NAME>* line will turn gray, indicating it has been selected.
   3.	Click `OK`. 
   4.	Another window will appear with the message *“The selected assay(s) will be deleted. Do you wish to proceed?”*  Click `Yes`. 
-  5.	The “Updating firmware…” status bar will appear. After approximately 1 minute, the update will be complete and the NuGEN NuQuant app will have been removed.
+  5.	The “Updating firmware…” status bar will appear. After approximately 1 minute, the update will be complete and the Tecan NuQuant app will have been removed.
 
 ### Uninstalling NuQuant from Qubit 3.0 and Qubit 4
 
