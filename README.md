@@ -1,5 +1,5 @@
 ![http://www.tecangenomics.com](https://lifesciences.tecan.com/hubfs/page_images/logo.png)  
-[www.tecangenomics.com](http://www.tecangenomics.com)
+[www.tecangenomics.com](https://lifesciences.tecan.com/ngs-library-prep-reagents-product-overview-new)
 
 #  NuQuant Assay for Qubit
 The NuQuant library quantification method accurately measures molar concentrations of NGS libraries. NuQuant library quantification is a proprietary method whereby a specific number of fluorescent labels are incorporated into the library molecules during library preparation. Consequently, each library molecule has an equivalent number of labels incorporated, regardless of the size of the library fragment. The molar concentration of sequenceable molecules can be directly measured using fluorometers such as Qubit® or standard plate readers.
@@ -15,8 +15,8 @@ To download files to your local disk, right-click the `download` link and select
 
 | Kit            | Version  | Qubit 2                                                                                                      | Qubit 3 or 4                                                                                                     |
 |----------------|----------|--------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| Celero         | PCR      | [download](https://raw.githubusercontent.com/nugentechnologies/NuQuant_Celero/master/Qubit2CeleroPCRv1.qbt)       | [download](https://raw.githubusercontent.com/nugentechnologies/NuQuant_Celero/master/Qubit3and4CeleroPCRv1.qbt)       |
-| Universal Plus | PCR      | [download](https://raw.githubusercontent.com/nugentechnologies/NuQuant_UniversalPlus/master/Qubit2UnivPlusv1.qbt) | [download](https://raw.githubusercontent.com/nugentechnologies/NuQuant_UniversalPlus/master/Qubit3and4UnivPlusv1.qbt) |
+| Celero         | PCR      | [download](https://raw.githubusercontent.com/tecangenomics/NuQuant_Celero/master/Qubit2CeleroPCRv1.qbt)       | [download](https://raw.githubusercontent.com/tecangenomics/NuQuant_Celero/master/Qubit3and4CeleroPCRv1.qbt)       |
+| Universal Plus | PCR      | [download](https://raw.githubusercontent.com/tecangenomics/NuQuant_UniversalPlus/master/Qubit2UnivPlusv1.qbt) | [download](https://raw.githubusercontent.com/tecangenomics/NuQuant_UniversalPlus/master/Qubit3and4UnivPlusv1.qbt) |
 | Revelo | PCR | [download](https://github.com/tecangenomics/NuQuant_Revelo/blob/master/Qubit2Revelo.qbt) | [download](https://raw.githubusercontent.com/tecangenomics/NuQuant_Revelo/master/Qubit3and4Revelo.qbt)
 
 
