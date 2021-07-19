@@ -1,0 +1,16 @@
+Parent Name: NuQuant 430
+
+Name 1: NuQuant 430
+Name Sub-text: NuQuant v1.0
+Calibration: YES
+Units: nM
+Excitation: RED
+Emission: FAR RED
+Std Signal Ratio Limit: 10
+Low: 0.1
+High: 40
+N: 0.979129076211733
+K: 4520.90855820289
+S: 10.7333333
+Green RFU Name: 
+Far Red RFU Name: 
