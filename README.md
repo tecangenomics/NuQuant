@@ -1,7 +1,7 @@
 ![http://www.tecangenomics.com](https://lifesciences.tecan.com/hubfs/page_images/logo.png)  
 [www.tecangenomics.com](https://lifesciences.tecan.com/ngs-library-prep-reagents-product-overview-new)
 
-# Updated information may be found at https://tecangenomics.github.io/NuQuant.html
+# Updated NuQuant information may be found at https://tecangenomics.github.io/NuQuant.html
 The data here is kept for continuity purposes
 
 ***
