@@ -1,6 +1,11 @@
 ![http://www.tecangenomics.com](https://lifesciences.tecan.com/hubfs/page_images/logo.png)  
 [www.tecangenomics.com](https://lifesciences.tecan.com/ngs-library-prep-reagents-product-overview-new)
 
+# Updated information may be found at https://tecangenomics.github.io/NuQuant.html
+The data here is kept for continuity purposes
+
+***
+
 #  NuQuant Assay for Qubit
 The NuQuant library quantification method accurately measures molar concentrations of NGS libraries. NuQuant library quantification is a proprietary method whereby a specific number of fluorescent labels are incorporated into the library molecules during library preparation. Consequently, each library molecule has an equivalent number of labels incorporated, regardless of the size of the library fragment. The molar concentration of sequenceable molecules can be directly measured using fluorometers such as Qubit® or standard plate readers.
 
